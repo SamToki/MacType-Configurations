@@ -16,7 +16,7 @@ As you can see in the picture above. On the left side is the default font render
 
 # 使用方法 ／ How to Use
 
-[使用教程](/HELP/使用教程%20Manual.pdf)
+[使用教程 Manual](/HELP/使用教程%20Manual.pdf)
 
 # 版权说明 ／ Copyright Info
 
