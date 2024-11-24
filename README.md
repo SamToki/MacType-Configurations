@@ -9,7 +9,7 @@ MacType is a tool for improving the font rendering on Windows. It replaces Clear
 本人编写的配置文件积淀了我至少五年的 MacType 使用经验。相比 MacType 自带的配置文件，在我个人看来具有明显更好的效果。<br>
 The MacType configuration files written by me are with more than 5 years of MacType experience. When compared to the built-in configurations, these configurations provide much better font rendering in my view.
 
-![预览 Preview](/PREVIEW/Preview.png)
+![封面 Cover](/PREVIEW/封面%20Cover.png)
 
 如图所示，左侧为 Windows 默认的字体渲染效果，右侧为 MacType 配合我的配置文件的效果。首先将系统字体替换为「更纱黑体」。其次禁用了次像素渲染，文字边缘不再出现诡异的彩色。最后禁用了 hinting，汉字不再高低不平。整体显示效果也更有「柔顺」感。<br>
 As you can see in the picture above. On the left side is the default font rendering of Windows, and on the right side is MacType with my configurations. Firstly the font is changed to "Sarasa Gothic". Secondly the subpixel font rendering is disabled, so the weird colorful text borders go away. Lastly the font hinting also gets disabled, so the height of Chinese characters becomes constant as it is supposed to be. The overall text display feels "smoother" as well.
