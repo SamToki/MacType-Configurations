@@ -16,11 +16,11 @@ As you can see in the picture above. On the left side is the default font render
 
 # 使用方法 How to Use
 
-[使用教程 Manual](/HELP/使用教程%20Manual.pdf)
+[使用教程 Tutorial](/HELP/使用教程%20Tutorial.pdf)
 
 # 版权说明 Copyright Info
 
 原始配置文件由 maxchow@qq.com 编写，SAM TOKI STUDIO 修改并发布改进了的配置文件，对配置文件不持有版权。教程文档保留版权。<br>
-The original configuration files are written by maxchow@qq.com. SAM TOKI STUDIO modified and published the optimized versions of them, and does not own the copyright of them. However, the copyright of the manual is reserved by me.
+The original configuration files are written by maxchow@qq.com. SAM TOKI STUDIO modified and published the optimized versions of them, and does not own the copyright of them. However, the copyright of the tutorial is reserved by me.
 
 © 2020 SAM TOKI STUDIO
