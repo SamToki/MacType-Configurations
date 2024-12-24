@@ -14,13 +14,13 @@ The MacType configuration files written by me are with more than 5 years of MacT
 如图所示，左侧为 Windows 默认的字体渲染效果，右侧为 MacType 配合我的配置文件的效果。首先将系统字体替换为「![更纱黑体](https://github.com/be5invis/Sarasa-Gothic)」。其次禁用了次像素渲染，文字边缘不再出现诡异的彩色。最后禁用了 hinting，汉字不再高低不平。整体显示效果也更有「柔顺」感。<br>
 As you can see in the picture above. On the left side is the default font rendering of Windows, and on the right side is MacType with my configurations. Firstly the font is changed to "![Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic)". Secondly the subpixel font rendering is disabled, so the weird colorful text borders go away. Lastly the font hinting also gets disabled, so the height of Chinese characters becomes constant as it is supposed to be. The overall text display feels "smoother" as well.
 
-# 使用方法 How to Use
+# 教程 Tutorial
 
-[使用教程 Tutorial](/HELP/使用教程%20Tutorial.pdf)
+[说明文档](/HELP/Sam%20Toki%20的%20MacType%20配置文件说明文档.pdf)
 
 # 版权说明 Copyright Info
 
-原始配置文件由 maxchow@qq.com 编写，SAM TOKI STUDIO 修改并发布改进了的配置文件，对配置文件不持有版权。教程文档保留版权。<br>
-The original configuration files are written by maxchow@qq.com. SAM TOKI STUDIO modified and published the optimized versions of them, and does not own the copyright of them. However, the copyright of the tutorial is reserved by me.
+原始配置文件由 maxchow@qq.com 编写，SAM TOKI STUDIO 修改并发布改进了的配置文件，对配置文件不持有版权。说明文档保留版权。<br>
+The original configuration files are written by maxchow@qq.com. SAM TOKI STUDIO modified and published the optimized versions of them, and does not own the copyright of them. However, the copyright of the documentation is reserved by me.
 
 © 2020 SAM TOKI STUDIO
