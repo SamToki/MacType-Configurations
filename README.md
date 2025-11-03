@@ -20,8 +20,8 @@ As you can see in the picture above. On the left side is the default font render
 
 # 鸣谢 Acknowledgment
 
-[@NuoFang6](https://github.com/NuoFang6) 的 [contribution](https://github.com/SamToki/MacType-Configurations/pull/4)：给配置文件补充新版本 MacType 的内容，并补充与 MacType 不兼容的程序（UnloadDLL 黑名单）。
-[@695343126](https://github.com/695343126) 于 [issue #6](https://github.com/SamToki/MacType-Configurations/issues/6) 提出涉及「FontSubstitutes」与「MacTray 托盘加载模式」的异常解决方法。
+- [@NuoFang6](https://github.com/NuoFang6) 的 [contribution](https://github.com/SamToki/MacType-Configurations/pull/4)：给配置文件补充新版本 MacType 的内容，并补充与 MacType 不兼容的程序（UnloadDLL 黑名单）。
+- [@695343126](https://github.com/695343126) 于 [issue #6](https://github.com/SamToki/MacType-Configurations/issues/6) 提出涉及「FontSubstitutes」与「MacTray 托盘加载模式」的异常解决方法。
 
 # 版权说明 Copyright Info
 
