@@ -3,8 +3,8 @@
 由于历史原因，Windows 系统上的文字显示（尤其是汉字）一直饱受部分用户诟病。这主要归咎于 [ClearType](https://zh.wikipedia.org/wiki/ClearType) 子像素字体渲染技术，以及[字体 hinting](https://zh.wikipedia.org/wiki/字体微调) 技术。<br>
 Due to historical reasons, the text display (especially Kanji, Chinese characters) on Windows has always been complained by some users. This is mainly because of the [ClearType](https://en.wikipedia.org/wiki/ClearType) subpixel font rendering technology, and the [font hinting](https://en.wikipedia.org/wiki/Font_hinting) technology.
 
-[MacType](https://github.com/snowie2000/mactype) 是一款用于改善 Windows 字体渲染的工具。通过 FreeType 字体渲染技术取代 ClearType，使 Windows 系统的文字显示效果向 macOS、iOS、Android 等看齐。该工具具有很高的自由度，例如支持修改字体渲染方式，开关 hinting 等。这对于包括我在内的一众 Windows 用户而言可以说是拯救双眼的神器。<br>
-[MacType](https://github.com/snowie2000/mactype) is a tool for improving the font rendering on Windows. It replaces ClearType with FreeType, making the text display on Windows as good as those on macOS, iOS and Android, etc. The tool is highly customizable. For example, it allows shifting font rendering methods and toggling font hinting. For some Windows users including myself, this saves our eyes.
+[MacType](https://github.com/snowie2000/mactype) 是一款用于改善 Windows 字体渲染的工具。通过 [FreeType](https://zh.wikipedia.org/wiki/FreeType) 字体渲染技术取代 ClearType，使 Windows 系统的文字显示效果向 macOS、iOS、Android 等看齐。该工具具有很高的自由度，例如支持修改字体渲染方式，开关 hinting 等。这对于包括我在内的一众 Windows 用户而言可以说是拯救双眼的神器。<br>
+[MacType](https://github.com/snowie2000/mactype) is a tool for improving the font rendering on Windows. It replaces ClearType with [FreeType](https://en.wikipedia.org/wiki/FreeType), making the text display on Windows as good as those on macOS, iOS and Android, etc. The tool is highly customizable. For example, it allows shifting font rendering methods and toggling font hinting. For some Windows users including myself, this saves our eyes.
 
 本人编写的配置文件积淀了我至少五年的 MacType 使用经验。相比 MacType 自带的配置文件，在我个人看来具有明显更好的效果。<br>
 The MacType configuration files written by me are with more than 5 years of MacType experience. When compared to the built-in configurations, these configurations provide much better font rendering in my view.
